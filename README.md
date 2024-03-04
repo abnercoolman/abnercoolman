@@ -12,15 +12,17 @@
 
 <!--![Abner GitHub stats](https://github-readme-stats.vercel.app/api?username=abnercoolman&show_icons=true&theme=github_dark_dimmed)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnercoolman&layout=compact&langs_count=10) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnercoolman&layout=compact&langs_count=10)
 
-<!-- Para usar se quiser esconder linguagens: &hide=css,scss,html,python,javascript -->
+Para usar se quiser esconder linguagens: &hide=css,scss,html,python,javascript -->
 
 ## 🛠️ &nbsp; Tech Stacks
 
 ### Back
 ![Node.JS](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)&nbsp;
+
+<!-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)&nbsp; -->
 
 ### Front
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
