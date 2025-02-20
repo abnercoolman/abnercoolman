@@ -51,8 +51,7 @@ Para usar se quiser esconder linguagens: &hide=css,scss,html,python,javascript -
 - - -
 
 #### **Level Legend:**
-| Level | ![basic](https://img.shields.io/badge/Basic-▣▢▢▢▢-E74C3C) | ![basic](https://img.shields.io/badge/Basic--Intermediate-▣▣▢▢▢-E67E22) | ![basic](https://img.shields.io/badge/Intermediate-▣▣▣▢▢-F1C40F) | ![basic](https://img.shields.io/badge/Advanced-▣▣▣▣▢-2ECC71) | ![basic](https://img.shields.io/badge/Expert-▣▣▣▣▣-039BE5) |
-|-------|---------|--------------|----------|--------|--------|
+![basic](https://img.shields.io/badge/Basic-▣▢▢▢▢-E74C3C) ![basic](https://img.shields.io/badge/Basic--Intermediate-▣▣▢▢▢-E67E22) ![basic](https://img.shields.io/badge/Intermediate-▣▣▣▢▢-F1C40F) ![basic](https://img.shields.io/badge/Advanced-▣▣▣▣▢-2ECC71) ![basic](https://img.shields.io/badge/Expert-▣▣▣▣▣-039BE5)
 
 
 <!--
