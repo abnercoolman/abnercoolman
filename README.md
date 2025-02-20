@@ -20,7 +20,7 @@ Para usar se quiser esconder linguagens: &hide=css,scss,html,python,javascript -
 
 ### Programming Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-▣▣▣▣▢-2ECC71?style=flat&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-▣▣▣▣▢-2ECC71?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-▣▣▣▢▢-F1C40F?style=flat&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-▣▣▣▢▢-%23F1C40F.svg?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-▣▣▣▣▢-2ECC71?style=flat&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-▣▣▣▣▢-2ECC71?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-▣▣▣▢▢-F1C40F?style=flat&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-▣▣▣▢▢-%23F1C40F.svg?style=flat&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-▣▣▢▢▢-%23E67E22.svg?style=flat&logo=php&logoColor=white)
 
 - - -
 
